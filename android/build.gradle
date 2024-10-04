@@ -68,5 +68,5 @@ android {
 }
 
 dependencies {
-    implementation "com.navercorp.nid:oauth:5.9.0"
+    implementation "com.navercorp.nid:oauth:5.10.0"
 }
